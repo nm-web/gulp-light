@@ -1,0 +1,9 @@
+.header{
+  color:black;
+}
+
+@media screen and (max-width: 1000px) {
+  .header {
+    color:white;
+  }
+}
